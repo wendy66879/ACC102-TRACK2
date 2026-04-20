@@ -1,36 +1,54 @@
-# ACC102 Python Data Project - Apple (AAPL) Financial Analysis
+# Apple Inc. Financial Performance Analysis (2020–2025)
+ACC102 Accounting Project
 
 ## 1. Project Overview
-This project analyzes the financial performance of Apple Inc. from 2020 to 2025 using Python. The goal is to explore revenue trends, profitability ratios, and shareholder return through visualizations and statistical analysis.
+This project analyzes Apple Inc.’s financial performance from 2020 to 2025 using Python and WRDS Compustat data. It focuses on revenue trends, profitability ratios, and year-over-year growth to evaluate operational efficiency and shareholder return.
 
 ## 2. Data Source
-- Source: WRDS Compustat Database
-- Date Retrieved: 2026-04-16
-- Data File: cleaned_data.csv
-- Variables: date, revenue, net income, COGS, equity
+- Database: WRDS Compustat (funda)
+- Company: Apple Inc. (Ticker: AAPL)
+- Period: 2020 – 2025
+- Cleaned Data File: cleaned_data.csv
+- Variables: date, revenue, net_income, cogs, equity
 
 ## 3. Python Methods Used
-- pandas: data cleaning and processing
-- matplotlib: visualization
-- numpy: calculation
-- wrds: data extraction
+- pandas: Data loading, cleaning, calculation
+- numpy: Numerical operations
+- matplotlib: Visualization
+- wrds: WRDS data extraction
 
-## 4. Key Findings
-- Apple's revenue maintained stable growth from 2020 to 2025.
-- Gross profit margin remained at a high and steady level.
-- ROE showed strong performance reflecting high efficiency.
-- Net income growth was consistent with revenue trends.
+## 4. Analysis Framework
+1. Revenue & Net Income Trend Analysis
+2. Profitability Ratios:
+   - Gross Profit Margin
+   - Net Profit Margin
+   - Return on Equity (ROE)
+3. Year-over-Year (YoY) Growth Rate Calculation
 
-## 5. How to Run
+## 5. Key Findings
+- Revenue grew rapidly from 2020 to 2022, stabilized in 2023–2024, and rebounded in 2025.
+- Gross margin consistently improved over the period, showing strong cost efficiency.
+- ROE remained at a high level, reflecting strong capital efficiency.
+- Net income growth followed revenue trends with high stability.
+
+## 6. Results & Visualizations
+- Revenue and Net Income Trend (2020–2025)
+- Gross Margin, Net Margin, ROE Trend
+- Year-over-Year Growth Comparison
+
+## 7. How to Run
 1. Clone this repository
-2. Install required packages: pandas, numpy, matplotlib, wrds
-3. Open the .ipynb file in Jupyter
-4. Run all cells directly (cleaned_data.csv is provided)
+2. Install required packages:
+   pip install pandas numpy matplotlib wrds
+3. Open wrds_financial_data.ipynb
+4. Run all cells to reproduce analysis and charts
 
-## 6. Limitations & Improvements
-- Limitation: Only annual data was used.
-- Improvement: Can add quarterly data and peer comparison.
+## 8. Limitations & Improvements
+- Only annual data is used; quarterly data can provide more detailed insights.
+- No peer or industry benchmark comparison.
+- Future analysis can include competitor comparison and deeper ratio decomposition.
 
-## 7. Links
-- GitHub Repository: (这里自动就是当前页面)
-- Demo Video: (之后再填)[wrds financial data (1).ipynb](https://github.com/user-attachments/files/26883375/wrds.financial.data.1.ipynb)
+## 9. Links
+- GitHub Repository: This page
+- Demo Video: To be added[wrds.financial.data.1.ipynb](https://github.com/user-attachments/files/26884949/wrds.financial.data.1.ipynb)
+
