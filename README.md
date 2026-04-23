@@ -43,12 +43,7 @@ This project analyzes Apple Inc.’s financial performance from 2020 to 2025 usi
 3. Open wrds_financial_data.ipynb
 4. Run all cells to reproduce analysis and charts
 
-## 8. Limitations & Improvements
-- Only annual data is used; quarterly data can provide more detailed insights.
-- No peer or industry benchmark comparison.
-- Future analysis can include competitor comparison and deeper ratio decomposition.
-
-## 9. Links
+## 8. Links
 - GitHub Repository: This page
 - Demo Video: To be added[wrds.financial.data.1.ipynb](https://github.com/user-attachments/files/26884949/wrds.financial.data.1.ipynb)
 
