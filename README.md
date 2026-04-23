@@ -54,7 +54,6 @@ Refine ratio calculations with more precise accounting metrics (e.g., average eq
 Add peer company comparison (e.g., Samsung, Microsoft) to provide industry-relative insights into competitive advantages.
 Integrate macroeconomic indicators (interest rates, inflation) to explore external factors influencing financial performance.
 
-## 8. Links
-- GitHub Repository: This page
-- Demo Video: To be added[wrds.financial.data.1.ipynb](https://github.com/user-attachments/files/26884949/wrds.financial.data.1.ipynb)
-
+## 9. Links
+- GitHub Repository: [wrds.financial.data.1.ipynb](https://github.com/user-attachments/files/26884949/wrds.financial.data.1.ipynb)
+- Demo Video: To be added
