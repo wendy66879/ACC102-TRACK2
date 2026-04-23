@@ -56,4 +56,4 @@ Integrate macroeconomic indicators (interest rates, inflation) to explore extern
 
 ## 9. Links
 - GitHub Repository: [wrds.financial.data.1.ipynb](https://github.com/user-attachments/files/26884949/wrds.financial.data.1.ipynb)
-- Demo Video: To be added
+- Demo Video: To be addedhttps://video.xjtlu.edu.cn/Mediasite/Play/b5b3b54acb16408fb2656e62c17090801d
