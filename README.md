@@ -43,6 +43,17 @@ This project analyzes Apple Inc.’s financial performance from 2020 to 2025 usi
 3. Open wrds_financial_data.ipynb
 4. Run all cells to reproduce analysis and charts
 
+##8. Limitations & Future Improvements
+Limitations
+The analysis is based solely on annual financial data, which fails to capture short-term quarterly fluctuations, seasonal business cycles, and timely market responses.
+The calculation of financial ratios (e.g., ROE) uses simplified total equity without adjusting for average equity, which may reduce the accuracy of profitability evaluation.
+The study focuses only on Apple Inc. without comparing it with industry peers, lacking a benchmark to evaluate relative performance.
+Future Improvements
+Incorporate quarterly financial data to track finer-grained trends and short-term operational changes.
+Refine ratio calculations with more precise accounting metrics (e.g., average equity for ROE) to improve analytical accuracy.
+Add peer company comparison (e.g., Samsung, Microsoft) to provide industry-relative insights into competitive advantages.
+Integrate macroeconomic indicators (interest rates, inflation) to explore external factors influencing financial performance.
+
 ## 8. Links
 - GitHub Repository: This page
 - Demo Video: To be added[wrds.financial.data.1.ipynb](https://github.com/user-attachments/files/26884949/wrds.financial.data.1.ipynb)
